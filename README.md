@@ -8,3 +8,4 @@
 **Name**: Ale Damlola, **Number**: 08039159459, **Operating system**: Ubuntu;
 **Name**: David Oluwashina, **Number**: 08091006944, **Operating System**: Windows(10);
 **Name**: Ebuka Bernard Ezeh, **Number**: 08130042969, **Operating System**: Ubuntu 16.04;
+**Name**: Oreoluwa Ojo, **Number**: 08138623042, **Operating System**: Windows(10);
